@@ -1,0 +1,7 @@
+print ("Hola soy tu tutorial")
+print ("Te enseñare algunos comandos de la terminal GNU/Linux")
+print ("Comando SUDO: Este comando te permite ejecutar comandos como superusuario (ROOT)")
+print ("Comando LS: Este comando te permite ver los archivos de la carpeta en la que te encuentres")
+print ("Comando CD: Este comando te permite acceder a una carpeta para trabajar con los archivos de esa carpeta")
+print ("Esto ha sido todo gracias por ejecutar")
+print ("Penguin-OS")
